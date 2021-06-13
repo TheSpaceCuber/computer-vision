@@ -22,6 +22,7 @@ def run():
         cv2.imshow('Video Face Detection', frame) 
 
         k = cv2.waitKey(1)
+        # hit the "esc" key to exit
         if k == 27:
             break
      
