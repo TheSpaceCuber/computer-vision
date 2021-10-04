@@ -1,1 +1,1 @@
-# Computer Vision archive
+# Archive of Computer Vision Projects
